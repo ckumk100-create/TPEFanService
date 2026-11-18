@@ -1,0 +1,12 @@
+node_modules/
+
+# 僅供本機開發驗證，正式網站不需要
+/tests/
+/VALIDATION.md
+/package.json
+/package-lock.json
+*.log
+*-log.txt
+
+# 本機來源查核紀錄
+/SOURCES.md
