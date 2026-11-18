@@ -1,0 +1,11 @@
+{
+  "name": "tpe-fan-service",
+  "private": true,
+  "scripts": {
+    "test": "node tests/ribbon-records.cjs && node tests/ribbon-world.cjs && node tests/ribbon-regressions.cjs && node tests/ribbon-lateral.cjs && node tests/ribbon-crowd.cjs && node tests/ribbon-recovery.cjs && node tests/ribbon-recipients.cjs && node tests/ribbon-review.cjs && node tests/ribbon-browser.cjs && node tests/ribbon-ui.cjs && node tests/ribbon-visibility.cjs && node tests/ribbon-side.cjs && node tests/ribbon-full-run.cjs && node tests/ribbon-drop.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1",
+    "three": "0.128.0"
+  }
+}

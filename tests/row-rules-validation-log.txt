@@ -1,0 +1,639 @@
+
+row-gates-browser.log
+WebGL context
+selecting hides candidate and bands
+old search cannot publish into restarted session
+search rejection finishes with readable error
+cancel search 0
+cancel search 1
+cancel search 2
+cancel search 3
+reachable target selected
+hit interval sample 0
+hit interval sample 1
+hit interval sample 2
+hit interval sample 3
+hit interval sample 4
+hit interval sample 5
+hit interval sample 6
+hit interval sample 7
+hit interval sample 8
+hit interval sample 9
+hit interval sample 10
+perfect uses actual distance
+perfect uses actual distance
+perfect uses actual distance
+target remains fixed
+reference launch parity 0/-80
+reference launch parity 0/-12
+reference launch parity 0/0
+reference launch parity 0/14
+reference launch parity 0/70
+reference launch parity 0.4/-80
+reference launch parity 0.4/-12
+reference launch parity 0.4/0
+reference launch parity 0.4/14
+reference launch parity 0.4/70
+reference launch parity 0.8/-80
+reference launch parity 0.8/-12
+reference launch parity 0.8/0
+reference launch parity 0.8/14
+reference launch parity 0.8/70
+reference launch parity 1.35/-80
+reference launch parity 1.35/-12
+reference launch parity 1.35/0
+reference launch parity 1.35/14
+reference launch parity 1.35/70
+ribbon feeds more than two nodes
+actual throw resolves exactly once
+no duplicate scoring
+round 0 has reachable target
+round 0 scores once
+round 1 has reachable target
+round 1 scores once
+round 2 has reachable target
+round 2 scores once
+round 3 has reachable target
+round 3 scores once
+round 4 has reachable target
+round 4 scores once
+round 5 has reachable target
+round 5 scores once
+round 6 has reachable target
+round 6 scores once
+round 7 has reachable target
+round 7 scores once
+round 8 has reachable target
+round 8 scores once
+round 9 has reachable target
+round 9 scores once
+photo animation precedes round summary
+round photo completes before advance
+explicit next round clears tapes and retains cumulative totals once
+round 10 has reachable target
+round 10 scores once
+round 11 has reachable target
+round 11 scores once
+round 12 has reachable target
+round 12 scores once
+round 13 has reachable target
+round 13 scores once
+fourteen distinct stand-ins rotate independently of ten-throw rounds
+fourteen hits continue into the second ten-throw round
+challenge completes ten throws and fails with four hits
+challenge transitions to result
+one settlement per throw first round 4 of 10 fails 0
+ten progress dots
+one settlement per throw first round 4 of 10 fails 1
+ten progress dots
+one settlement per throw first round 4 of 10 fails 2
+ten progress dots
+one settlement per throw first round 4 of 10 fails 3
+ten progress dots
+one settlement per throw first round 4 of 10 fails 4
+ten progress dots
+one settlement per throw first round 4 of 10 fails 5
+ten progress dots
+one settlement per throw first round 4 of 10 fails 6
+ten progress dots
+one settlement per throw first round 4 of 10 fails 7
+ten progress dots
+one settlement per throw first round 4 of 10 fails 8
+ten progress dots
+one settlement per throw first round 4 of 10 fails 9
+first round 4 of 10 fails
+first round 4 of 10 fails result
+only played round summaries
+one settlement per throw first round 5 passes; challenge 6 fails 0
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 1
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 2
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 3
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 4
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 5
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 6
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 7
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 8
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 9
+photo animation precedes round summary
+round photo completes before advance
+explicit next round clears tapes and retains cumulative totals once
+one settlement per throw first round 5 passes; challenge 6 fails 10
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 11
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 12
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 13
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 14
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 15
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 16
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 17
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 18
+ten progress dots
+one settlement per throw first round 5 passes; challenge 6 fails 19
+first round 5 passes; challenge 6 fails
+first round 5 passes; challenge 6 fails result
+only played round summaries
+one settlement per throw challenge 7 passes; final has no hit threshold 0
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 1
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 2
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 3
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 4
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 5
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 6
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 7
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 8
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 9
+photo animation precedes round summary
+round photo completes before advance
+explicit next round clears tapes and retains cumulative totals once
+one settlement per throw challenge 7 passes; final has no hit threshold 10
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 11
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 12
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 13
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 14
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 15
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 16
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 17
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 18
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 19
+photo animation precedes round summary
+round photo completes before advance
+explicit next round clears tapes and retains cumulative totals once
+one settlement per throw challenge 7 passes; final has no hit threshold 20
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 21
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 22
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 23
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 24
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 25
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 26
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 27
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 28
+ten progress dots
+one settlement per throw challenge 7 passes; final has no hit threshold 29
+challenge 7 passes; final has no hit threshold
+challenge 7 passes; final has no hit threshold result
+only played round summaries
+one settlement per throw five and seven qualify; final completes ten throws 0
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 1
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 2
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 3
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 4
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 5
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 6
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 7
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 8
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 9
+photo animation precedes round summary
+round photo completes before advance
+explicit next round clears tapes and retains cumulative totals once
+one settlement per throw five and seven qualify; final completes ten throws 10
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 11
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 12
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 13
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 14
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 15
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 16
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 17
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 18
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 19
+photo animation precedes round summary
+round photo completes before advance
+explicit next round clears tapes and retains cumulative totals once
+one settlement per throw five and seven qualify; final completes ten throws 20
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 21
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 22
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 23
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 24
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 25
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 26
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 27
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 28
+ten progress dots
+one settlement per throw five and seven qualify; final completes ten throws 29
+five and seven qualify; final completes ten throws
+five and seven qualify; final completes ten throws result
+only played round summaries
+result keeps ribbon
+settled ribbon sleeps
+64 sleeping ribbons retain display without physics
+64 ribbons / 1000 ticks ms: 7.4
+endpoint motion wakes ribbon
+64 tape and roll meshes removed
+uploaded ribbon GPU geometries disposed
+GPU geometry count: 236 -> 66
+return menu disposes ribbons
+background search waits before publishing
+background search resumes
+countdown compensated
+hidden flight frozen
+catch and next-target timestamps compensated
+result background frozen
+original modes and fan game still start
+first lap failure test target 0
+first-lap misses still complete all ten throws 0
+first lap failure test target 1
+first-lap misses still complete all ten throws 1
+first lap failure test target 2
+first-lap misses still complete all ten throws 2
+first lap failure test target 3
+first-lap misses still complete all ten throws 3
+first lap failure test target 4
+first-lap misses still complete all ten throws 4
+first lap failure test target 5
+first-lap misses still complete all ten throws 5
+first lap failure test target 6
+first-lap misses still complete all ten throws 6
+first lap failure test target 7
+first-lap misses still complete all ten throws 7
+first lap failure test target 8
+first-lap misses still complete all ten throws 8
+first lap failure test target 9
+first-lap misses still complete all ten throws 9
+first lap below six hits ends after ten
+settings change disposes flight and cancels session
+replay after result preserves newly selected member and hides menu
+
+
+row-gates-crowd.log
+{
+  "catch": {
+    "maxHandError": 9.083280763016637e-8,
+    "bodyChecks": 90,
+    "limbMovement": 2.4244742181617767,
+    "multiTapeAligned": true,
+    "towelAnimationPreserved": true
+  },
+  "pickup": {
+    "bend": 0.5102057950851793,
+    "pickupHandError": 6.431215253796481e-8,
+    "bodyCollisionSynced": true
+  },
+  "photoProps": {
+    "total": 14,
+    "extras": 13,
+    "actualAttempts": 1
+  },
+  "risk": {
+    "challenge": 0.07275,
+    "low": 0.2033333333333333,
+    "high": 0.32833333333333337,
+    "hits": 0.4783333333333334,
+    "locked": true
+  },
+  "egg": {
+    "quietTarget": 6,
+    "persistentAngry": 205,
+    "photoRetained": true,
+    "local": 5
+  },
+  "direction": {
+    "angles": [
+      -70,
+      -55,
+      -44,
+      -30,
+      -15,
+      0,
+      15,
+      30,
+      44,
+      55,
+      70
+    ],
+    "counts": [
+      261,
+      580,
+      2710,
+      2581,
+      2537,
+      2698,
+      2558,
+      2710,
+      2606,
+      524,
+      235
+    ]
+  },
+  "rowCounts": {
+    "A": 4473,
+    "B": 4555,
+    "C": 972
+  },
+  "interception": {
+    "power": 0.8000000000000005,
+    "frontSeat": 17,
+    "target": 27,
+    "realAnimatedCatch": true
+  }
+}
+
+
+row-gates-full-run.log
+{
+  "heightGripChecks": [
+    {
+      "height": 145,
+      "peerHands": 0.15674631536521172,
+      "peerElbows": 0.07958382261025389
+    },
+    {
+      "height": 160,
+      "peerHands": 0.172961451437475,
+      "peerElbows": 0.08781663184579738
+    },
+    {
+      "height": 175,
+      "peerHands": 0.1891765875097383,
+      "peerElbows": 0.09604944108134089
+    }
+  ],
+  "grips": [
+    {
+      "handsApart": 0.08000000000000007,
+      "handHeight": 1.6199999999999999,
+      "elbowHeight": 1.3860059758748873
+    },
+    {
+      "handsApart": 0.07999999999999996,
+      "handHeight": 1.6200000000000003,
+      "elbowHeight": 1.417522407130146
+    }
+  ],
+  "peerGripDistance": 0.172961451437475,
+  "attempts": 30,
+  "hits": 30,
+  "cleared": true,
+  "roundRibbons": 14,
+  "frontGathered": 6,
+  "sideDroppedInPlace": 8,
+  "handHeights": [
+    1.6509554140127387,
+    1.6509554140127387
+  ],
+  "shots": [
+    {
+      "throw": 1,
+      "slot": 0,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 2,
+      "slot": 7,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 3,
+      "slot": 5,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 4,
+      "slot": 9,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 5,
+      "slot": 8,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 6,
+      "slot": 4,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 7,
+      "slot": 2,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 8,
+      "slot": 1,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 9,
+      "slot": 10,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 10,
+      "slot": 3,
+      "zone": "front",
+      "phase": "resultWait"
+    },
+    {
+      "throw": 11,
+      "slot": 13,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 12,
+      "slot": 6,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 13,
+      "slot": 11,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 14,
+      "slot": 12,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 15,
+      "slot": 0,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 16,
+      "slot": 7,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 17,
+      "slot": 5,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 18,
+      "slot": 9,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 19,
+      "slot": 8,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 20,
+      "slot": 4,
+      "zone": "front",
+      "phase": "resultWait"
+    },
+    {
+      "throw": 21,
+      "slot": 2,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 22,
+      "slot": 1,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 23,
+      "slot": 10,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 24,
+      "slot": 3,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 25,
+      "slot": 13,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 26,
+      "slot": 6,
+      "zone": "left",
+      "phase": "play"
+    },
+    {
+      "throw": 27,
+      "slot": 11,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 28,
+      "slot": 12,
+      "zone": "right",
+      "phase": "play"
+    },
+    {
+      "throw": 29,
+      "slot": 0,
+      "zone": "front",
+      "phase": "play"
+    },
+    {
+      "throw": 30,
+      "slot": 7,
+      "zone": "left",
+      "phase": "resultWait"
+    }
+  ],
+  "summaries": [
+    "第一輪：命中 10/10（十投門檻 5 中） · 過關",
+    "挑戰輪：命中 10/10（十投門檻 7 中） · 過關",
+    "決勝輪：命中 10/10（不設門檻） · 完成"
+  ]
+}
+
+Normal RAF staging, native mouse and touch, DPR .3
+document 1944ad6c98097137e499300212671ae66c5d6be73359cce82c904e3fe7e60139
+loaded false
+ready {"mobile":false,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：A排 7號 · 舞台正面站位","zone":"front","power":0.4725}
+native hit {"mobile":false,"hits":1,"zone":"front"}
+{"mobile":false,"url":"http://127.0.0.1:8877/TPEFanService/","hits":1,"zones":["front"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"errors":[]}
+document 1944ad6c98097137e499300212671ae66c5d6be73359cce82c904e3fe7e60139
+loaded true
+ready {"mobile":true,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：A排 7號 · 舞台正面站位","zone":"front","power":0.4781245725}
+native hit {"mobile":true,"hits":1,"zone":"front"}
+{"mobile":true,"url":"http://127.0.0.1:8877/TPEFanService/","hits":1,"zones":["front"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"errors":[]}

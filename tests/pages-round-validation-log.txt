@@ -1,0 +1,35 @@
+Public deployment 12975085f7ee84098ae91051eb56f7335b83a147, Action 44152778555 success
+Desktop and mobile recorded independently; normal RAF, no page hooks, SwiftShader DPR .3.
+document bcc208a140e44ee3b8adbf88d43a69fca3d72c3c0c3c3c6f213e097da344675e
+loaded false
+ready {"mobile":false,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：B排 2號 · 舞台正面站位","zone":"front","power":0.6243754725}
+native hit {"mobile":false,"hits":1,"zone":"front"}
+ready {"mobile":false,"who":"你是 郁子蕾（蕾蕾）","target":"目標觀眾：Q排 10號（舞台右側） · 舞台右側站位","zone":"right","power":0.523125}
+native hit {"mobile":false,"hits":2,"zone":"right"}
+ready {"mobile":false,"who":"你是 陳嘉儀（+1）","target":"目標觀眾：N排 9號（舞台左側） · 舞台左側站位","zone":"left","power":0.180000225}
+native hit {"mobile":false,"hits":3,"zone":"left"}
+{"mobile":false,"url":"https://andytwmvp.github.io/TPEFanService/","hits":3,"zones":["front","right","left"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"errors":[]}
+document bcc208a140e44ee3b8adbf88d43a69fca3d72c3c0c3c3c6f213e097da344675e
+loaded true
+ready {"mobile":true,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：C排 4號 · 舞台正面站位","zone":"front","power":0.77062455}
+native hit {"mobile":true,"hits":1,"zone":"front"}
+ready {"mobile":true,"who":"你是 楊家宜（樂樂）","target":"目標觀眾：Q排 9號（舞台右側） · 舞台右側站位","zone":"right","power":0.4837495500000001}
+native hit {"mobile":true,"hits":2,"zone":"right"}
+ready {"mobile":true,"who":"你是 陳嘉儀（+1）","target":"目標觀眾：O排 11號（舞台左側） · 舞台左側站位","zone":"left","power":0.5512504275000001}
+native hit {"mobile":true,"hits":3,"zone":"left"}
+{"mobile":true,"url":"https://andytwmvp.github.io/TPEFanService/","hits":3,"zones":["front","right","left"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"errors":[]}
+
+[
+  {
+    "file": "./ribbon-world.js?v=e04809bd57d1",
+    "sha256": "e04809bd57d15b8a7c63eace12d2f54c768fa921e07d2d05c947d234014f6f3a"
+  },
+  {
+    "file": "./ribbon-records.js?v=73d3067ed4e4",
+    "sha256": "73d3067ed4e4068ac38285120f0666a4918ac7385dc16de0e81cd90aacaf4401"
+  },
+  {
+    "file": "./ribbon-crowd.js?v=cae2422a3f0a",
+    "sha256": "cae2422a3f0a47c60ccb0f2a9570ae4e3eb50b03567fdae4d022ae60836de06a"
+  }
+]

@@ -1,0 +1,3 @@
+{"source":"downloaded reference runtime with test-only finale trigger","webgl":true,"errors":[]}
+
+Test-only trigger: start normal reference setup, call original finale function, render with software WebGL. No original gameplay result is claimed. Source resources are identified in SOURCES.md.

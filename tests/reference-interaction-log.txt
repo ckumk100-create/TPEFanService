@@ -1,0 +1,59 @@
+{
+  phase: 'title',
+  order: [
+    0, 7, 1, 6,
+    2, 5, 3, 4
+  ],
+  canvas: true
+}
+{
+  phase: 'play',
+  target: {
+    idx: 88,
+    x: -5.5,
+    z: 3.96,
+    floorY: 0.14,
+    top: 1.2555319741403668,
+    sh: 0.9732324446302398,
+    seated: true,
+    kind: 'seat',
+    h: 1.5683307195007055,
+    male: false,
+    no: 130,
+    row: 3
+  },
+  win: {
+    lo: 0.64125,
+    hi: 0.75375,
+    mid: 0.6975,
+    pf: { lo: 0.6975, hi: 0.7425 },
+    width: 0.12375000000000004,
+    weak: {
+      kind: 'catch',
+      person: [Object],
+      isTarget: false,
+      pickup: false,
+      hit: null,
+      snag: false,
+      apex: 2.370100873438328,
+      t: 0.6583333333333322,
+      at: [Array],
+      off: 0.3667218678264354
+    },
+    strong: {
+      kind: 'catch',
+      person: [Object],
+      isTarget: false,
+      pickup: false,
+      hit: null,
+      snag: false,
+      apex: 2.661974442102547,
+      t: 0.8791666666666648,
+      at: [Array],
+      off: 0.36541563156199436
+    },
+    danger: 0.9
+  },
+  aim: { lo: -6, hi: 7 }
+}
+{ n: 1, hits: 1, tapes: 1 }

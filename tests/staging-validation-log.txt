@@ -1,0 +1,65 @@
+Prior runtime: native 11 throws per input, round photo and explicit advance
+document 32ee48be557000739b4d1320a08e32a3a19b3b3210aac0a27a046cf71f941eef
+loaded false
+ready {"mobile":false,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：C排 4號 · 舞台正面站位","zone":"front","power":0.77062455}
+native hit {"mobile":false,"hits":1,"zone":"front"}
+ready {"mobile":false,"who":"你是 呂昕恩（沅沅）","target":"目標觀眾：P排 10號（舞台右側） · 舞台右側站位","zone":"right","power":0.2025}
+native hit {"mobile":false,"hits":2,"zone":"right"}
+ready {"mobile":false,"who":"你是 虛擬站位（舞台演出）","target":"目標觀眾：Q排 13號（舞台右側） · 舞台右側站位","zone":"right","power":0.30937477500000005}
+native hit {"mobile":false,"hits":3,"zone":"right"}
+ready {"mobile":false,"who":"你是 楊家宜（樂樂）","target":"目標觀眾：Q排 4號（舞台右側） · 舞台右側站位","zone":"right","power":0.6018750225}
+native hit {"mobile":false,"hits":4,"zone":"right"}
+ready {"mobile":false,"who":"你是 陳以凌（娜娜）","target":"目標觀眾：B排 6號 · 舞台正面站位","zone":"front","power":0.64125}
+native hit {"mobile":false,"hits":5,"zone":"front"}
+ready {"mobile":false,"who":"你是 陳昭霓（棗泥）","target":"目標觀眾：C排 3號 · 舞台正面站位","zone":"front","power":0.7987499775000001}
+native hit {"mobile":false,"hits":6,"zone":"front"}
+ready {"mobile":false,"who":"你是 唐靜（shizuko）","target":"目標觀眾：N排 7號（舞台左側） · 舞台左側站位","zone":"left","power":0.20812477500000004}
+native hit {"mobile":false,"hits":7,"zone":"left"}
+ready {"mobile":false,"who":"你是 劉子菲（菲菲）","target":"目標觀眾：O排 9號（舞台左側） · 舞台左側站位","zone":"left","power":0.51749955}
+native hit {"mobile":false,"hits":8,"zone":"left"}
+ready {"mobile":false,"who":"你是 伊品（品品）","target":"目標觀眾：A排 8號 · 舞台正面站位","zone":"front","power":0.46687455000000005}
+native hit {"mobile":false,"hits":9,"zone":"front"}
+ready {"mobile":false,"who":"你是 郁子蕾（蕾蕾）","target":"目標觀眾：P排 9號（舞台右側） · 舞台右側站位","zone":"right","power":0.213750225}
+native hit {"mobile":false,"hits":10,"zone":"right"}
+native round advance {"mobile":false,"hits":10,"cumulative":true,"photoBeforeAdvance":true}
+ready {"mobile":false,"who":"你是 林于馨（れいち）","target":"目標觀眾：C排 5號 · 舞台正面站位","zone":"front","power":0.759375}
+native hit {"mobile":false,"hits":11,"zone":"front"}
+{"mobile":false,"url":"http://127.0.0.1:8876/TPEFanService/","hits":11,"zones":["front","right","left"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"roundAdvance":true,"errors":[]}
+document 32ee48be557000739b4d1320a08e32a3a19b3b3210aac0a27a046cf71f941eef
+loaded true
+ready {"mobile":true,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：C排 3號 · 舞台正面站位","zone":"front","power":0.759375}
+native hit {"mobile":true,"hits":1,"zone":"front"}
+ready {"mobile":true,"who":"你是 郁子蕾（蕾蕾）","target":"目標觀眾：Q排 10號（舞台右側） · 舞台右側站位","zone":"right","power":0.5006245500000001}
+native hit {"mobile":true,"hits":2,"zone":"right"}
+ready {"mobile":true,"who":"你是 呂昕恩（沅沅）","target":"目標觀眾：Q排 7號（舞台右側） · 舞台右側站位","zone":"right","power":0.61312545}
+native hit {"mobile":true,"hits":3,"zone":"right"}
+ready {"mobile":true,"who":"你是 楊家宜（樂樂）","target":"目標觀眾：Q排 5號（舞台右側） · 舞台右側站位","zone":"right","power":0.556874325}
+native hit {"mobile":true,"hits":4,"zone":"right"}
+ready {"mobile":true,"who":"你是 胡詠晴（くるみ）","target":"目標觀眾：O排 13號（舞台左側） · 舞台左側站位","zone":"left","power":0.30937477500000005}
+native hit {"mobile":true,"hits":5,"zone":"left"}
+ready {"mobile":true,"who":"你是 陳昭霓（棗泥）","target":"目標觀眾：C排 6號 · 舞台正面站位","zone":"front","power":0.7649999775}
+native hit {"mobile":true,"hits":6,"zone":"front"}
+ready {"mobile":true,"who":"你是 唐靜（shizuko）","target":"目標觀眾：O排 9號（舞台左側） · 舞台左側站位","zone":"left","power":0.5568750000000001}
+native hit {"mobile":true,"hits":7,"zone":"left"}
+ready {"mobile":true,"who":"你是 林于馨（れいち）","target":"目標觀眾：D排 4號 · 舞台正面站位","zone":"front","power":0.8775004725000001}
+native hit {"mobile":true,"hits":8,"zone":"front"}
+ready {"mobile":true,"who":"你是 虛擬站位（舞台演出）","target":"目標觀眾：Q排 13號（舞台右側） · 舞台右側站位","zone":"right","power":0.320625}
+native hit {"mobile":true,"hits":9,"zone":"right"}
+ready {"mobile":true,"who":"你是 陳嘉儀（+1）","target":"目標觀眾：N排 9號（舞台左側） · 舞台左側站位","zone":"left","power":0.213750225}
+native hit {"mobile":true,"hits":10,"zone":"left"}
+native round advance {"mobile":true,"hits":10,"cumulative":true,"photoBeforeAdvance":true}
+ready {"mobile":true,"who":"你是 蘇姮羽（小羽）","target":"目標觀眾：A排 3號 · 舞台正面站位","zone":"front","power":0.405}
+native hit {"mobile":true,"hits":11,"zone":"front"}
+{"mobile":true,"url":"http://127.0.0.1:8876/TPEFanService/","hits":11,"zones":["front","right","left"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"roundAdvance":true,"errors":[]}
+
+Final runtime: native hit/export/menu, both inputs
+document bcc208a140e44ee3b8adbf88d43a69fca3d72c3c0c3c3c6f213e097da344675e
+loaded false
+ready {"mobile":false,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：B排 1號 · 舞台正面站位","zone":"front","power":0.6243754725}
+native hit {"mobile":false,"hits":1,"zone":"front"}
+{"mobile":false,"url":"http://127.0.0.1:8876/TPEFanService/","hits":1,"zones":["front"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"errors":[]}
+document bcc208a140e44ee3b8adbf88d43a69fca3d72c3c0c3c3c6f213e097da344675e
+loaded true
+ready {"mobile":true,"who":"你是 張少瞳（ひとみ）","target":"目標觀眾：B排 7號 · 舞台正面站位","zone":"front","power":0.725625}
+native hit {"mobile":true,"hits":1,"zone":"front"}
+{"mobile":true,"url":"http://127.0.0.1:8876/TPEFanService/","hits":1,"zones":["front"],"photo":"1200x920","normalRAF":true,"testHooks":false,"devicePixelRatio":0.3,"errors":[]}
